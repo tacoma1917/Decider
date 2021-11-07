@@ -1,0 +1,43 @@
+body{
+    background-color: #b6bfb8;
+}
+
+.main-header{
+    background-color: #241773;
+    color: #9E7C0C;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+#p1{
+    color: black;
+    font-weight: bold;
+    margin-top: 1.5%;
+}
+.mid-container{
+    background-color: #B6bfB8;
+    color: black;
+    text-align: center;
+}
+
+.input-box{
+    padding-top: 6%;
+    padding-bottom: 3%;
+}
+
+.button{
+    background-color: #9E7C0C;
+    color: #241773;
+    font-weight: bold;
+    margin-bottom: 3%;
+}
+
+.final-div{
+    background-color: #B6bfB8;
+}
+#selection{
+    padding-top: 3%;
+    font-family: 'Gugi', cursive;
+    font-size: 1.25em;
+}
